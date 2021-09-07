@@ -1,6 +1,18 @@
-##Ejercicio 1
-Creación de un programa y su sintaxis en el lenguaje Gobstones. Invocación de comandos primitivos.<br>
-Ver Lección 1 "Primeros programas" y 2 "Práctica Primeros Programas" del Capítulo 1 "Fundamentos".
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default" style="width: 100%;">
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+        <h2>Ejercicio 1</h2>
+      </a>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse">
+      <div class="panel-body">
+        <p>Creación de un programa y su sintaxis en el lenguaje Gobstones. Invocación de comandos primitivos.</p><br>
+        <p>Ver Lección 1 "Primeros programas" y 2 "Práctica Primeros Programas" del Capítulo 1 "Fundamentos".</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ##Ejercicio 2
 Definición de un procedimiento con parámetros y su sintaxis en el lenguaje Gobstones.<br>
