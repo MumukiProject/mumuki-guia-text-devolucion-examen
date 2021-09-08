@@ -1,3 +1,9 @@
+<style>
+#wrap h3 {
+    display: none;
+}
+</style>
+
 ## Ejercicio 1
 Creación de un programa y su sintaxis en el lenguaje Gobstones. Invocación de comandos primitivos.<br>
 Ver Lección 1 "Primeros programas" y 2 "Práctica Primeros Programas" del Capítulo 1 "Fundamentos".
